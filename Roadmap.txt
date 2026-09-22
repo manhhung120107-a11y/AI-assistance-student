@@ -1,0 +1,37 @@
+Roadmap
+
+Tháng 1
+
+→ Web + FastAPI + PostgreSQL
+
+
+
+Tháng 2
+
+→ Upload PDF + xử lý tài liệu
+
+
+
+Tháng 3
+
+→ RAG + chatbot
+
+
+
+Tháng 4
+
+→ Quiz + Flashcard
+
+
+
+Tháng 5
+
+→ Authentication + Dashboard
+
+
+
+Tháng 6
+
+→ Deploy + tối ưu + viết tài liệu
+
+vì là có thể chia ra nhiều giai đoạn (ko nhất thiết là nhiều tháng như trên vì tôi có bạn trợ giúp) nên hãy thật chỉn chu từng chi tiết nhỏ 1 nhé.
