@@ -6,7 +6,7 @@ from supabase import create_client, Client
 # BẮT BUỘC NẰM Ở ĐÂY: Khởi tạo trang trước bất kỳ lệnh UI nào khác
 st.set_page_config(page_title="AI Study Assistant", layout="wide")
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://ai-assistance-backend-j0no.onrender.com"
 SUPABASE_URL = "https://zmhdrmcpyjxmdvljvsiq.supabase.co"
 SUPABASE_KEY = "sb_publishable_H_mQDQpI_Ma_cuMFV-g8Bw_iu5KXI9w"
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
